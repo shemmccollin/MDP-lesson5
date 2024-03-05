@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">lesson5</string>
+    <string name="sign_in">Sign in</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="show">Show password</string>
+    <string name="new_to">New to Amazon?</string>
+    <string name="create">Create a new Amazon account</string>
+    <string name="create_account">Create Account</string>
+    <string name="your_name">Your name</string>
+    <string name="mobile">Mobile Number or email</string>
+    <string name="re_enter">Re-enter password</string>
+    <string name="cont">Continue</string>
+    <string name="category">Shop by Categories</string>
+    <string name="home">Home and Kitchen</string>
+    <string name="beauty">Beauty and personal care</string>
+    <string name="pet">Pet supplies</string>
+    <string name="toys">toys and games</string>
+</resources>
