@@ -16,4 +16,5 @@
     <string name="beauty">Beauty and personal care</string>
     <string name="pet">Pet supplies</string>
     <string name="toys">toys and games</string>
+    <string name="six">At least six characters</string>
 </resources>

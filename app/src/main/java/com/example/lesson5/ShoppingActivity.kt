@@ -1,6 +1,5 @@
 package com.example.lesson5
 
-import android.content.Intent
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
 import android.view.View
@@ -11,8 +10,8 @@ class ShoppingActivity : AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_shopping)
-        val weclomeMsg = findViewById<TextView>(R.id.welcomeMsg)
-        weclomeMsg.text = "Welcome ${intent.getStringExtra("name")}"
+        val welcomeMsg = findViewById<TextView>(R.id.welcomeMsg)
+        welcomeMsg.text = "Welcome ${intent.getStringExtra("name")}"
     }
 
     fun onImageClick(v: View){
